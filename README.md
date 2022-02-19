@@ -6,9 +6,9 @@ Ce repository est un référentiel de liens utiles concernant l'univers informat
 
 |CATEGORIE|DESCRIPTION|
 |-|-|
-|[API](https://github.com/matritz-pro/share/tree/main/API)|some API|
-|[Doc](https://github.com/matritz-pro/share/tree/main/Doc)|some main documentations about IT|
-|[DevOps](https://github.com/matritz-pro/share/tree/main/DevOps)|some DevOps tools|
-|[Linux](https://github.com/matritz-pro/share/tree/main/Linux)|some Linux commands|
+|[API](https://github.com/matritz-pro/share/tree/main/API)|A collective list of free APIs for use in software and web development|
+|[Doc](https://github.com/matritz-pro/share/tree/main/Doc)|A list of documentations and manuals|
+|[DevOps](https://github.com/matritz-pro/share/tree/main/DevOps)|A list of DevOps tools|
+|[Linux](https://github.com/matritz-pro/share/tree/main/Linux)|A list of Linux commands|
 
 > All my markdown files are written with [StackEdit](https://stackedit.io/).
