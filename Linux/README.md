@@ -1,5 +1,9 @@
 ﻿# Commandes Linux
 
+Retrouvez ici un référentiel de commandes linux
+
+> /!\ N'hésitez pas à me signaler toute commande qui ne serait plus valide. /!\
+
 |COMMANDE|DESCRIPTION|
 |-|-|
 | a2p |Cette commande permet de convertir un script de langage de programmation awk en un script de langage de programmation Perl et affiche le résultat sur la sortie standard.
