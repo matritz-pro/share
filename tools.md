@@ -2,20 +2,32 @@
 
 > /!\ N'hésitez pas à me signaler tout lien qui ne serait plus valide. /!\
 
-## Application
-|LIEN|TAGS|DESCRIPTION|
-|--|--|--|
-|[FindMyDesktopApp](https://github.com/jasonchampagne/FindMyDesktopApp)|||
+## Applications
+**[FindMyDesktopApp](https://github.com/jasonchampagne/FindMyDesktopApp)**
 
-## ETL
+### ETL
 |LIEN|TAGS|DESCRIPTION|
 |--|--|--|
 ||||
 
-## IDE
+### IDE
 |LIEN|TAGS|DESCRIPTION|
 |--|--|--|
 ||||
+
+### Modélisation
+|LIEN|TAGS|DESCRIPTION|
+|--|--|--|
+|[umlet](https://www.umlet.com/)|||
+|[visual-paradigm](https://www.visual-paradigm.com/)|||
+|[draw.io](https://app.diagrams.net/)|||
+|[xmind](https://www.xmind.net/)|||
+|[freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)|||
+|[mindmeister](https://www.mindmeister.com/fr)|||
+|[mindmanager](https://www.mindmanager.com/fr/)|||
+|[coggle](https://coggle.it/)|||
+|[cmap](https://cmap.ihmc.us/)|||
+|[gitmind](https://gitmind.com/fr/)|||
 
 # DevOps tools
 
@@ -50,7 +62,6 @@
 |[apiblueprint](https://apiblueprint.org/)
 |[raml](https://raml.org/)
 |[flarum](https://flarum.org/)
-|[graphviz](https://graphviz.org/)
 |[discourse](https://www.discourse.org/)
 
 ## Build
@@ -73,7 +84,7 @@
 |[teamcity](https://www.jetbrains.com/fr-fr/teamcity/)
 |[jenkins](https://www.jenkins.io/)
 |[bamboo](https://www.atlassian.com/fr/software/bamboo)
-|[drone.io](https://www.drone.io/)
+|[drone](https://www.drone.io/)
 |[circleCI](https://circleci.com/)
 |[travis-ci](https://travis-ci.org/)
 
@@ -192,6 +203,8 @@
 ### BI / Monitoring / Logging
 |LIEN|TAGS|DESCRIPTION|
 |--|--|--|
+|[tableau](https://www.tableau.com/fr-fr)|||
+|[graphviz](https://graphviz.org/)
 |[logstash](https://www.elastic.co/fr/logstash/)
 |[elasticsearch](https://www.elastic.co/fr/elasticsearch/)
 |[splunk](https://www.splunk.com/fr_fr)
