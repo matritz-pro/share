@@ -1,1 +1,2 @@
-﻿# [Documentation](https://github.com/jasonchampagne/FindMyDoc)
+﻿# Documentation
+Find your documentation [here](https://github.com/jasonchampagne/FindMyDoc)
