@@ -1,4 +1,4 @@
-﻿# Documentation
+﻿# 
 
 Retrouvez ici un référentiel de liens utiles concernant l'univers informatique
 
@@ -9,11 +9,6 @@ Retrouvez ici un référentiel de liens utiles concernant l'univers informatique
 
 |CATEGORIE|LIENS|
 |--|--|
-|Application||
-|API|[public-apis](https://github.com/public-apis/public-apis)|
-|Framework||
-|Langage||
-|OS||
 
 ## Learning
 ### Course
