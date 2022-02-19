@@ -1,9 +1,10 @@
 ﻿# Documentation
-A list of documentations and manuals ([here](https://github.com/jasonchampagne/FindMyDoc))
 
 Retrouvez ici un référentiel de liens utiles concernant l'univers informatique
 
 > /!\ N'hésitez pas à me signaler tout lien qui ne serait plus valide. /!\
+
+A list of documentations and manuals ([here](https://github.com/jasonchampagne/FindMyDoc))
 
 ## Learning
 ### Course

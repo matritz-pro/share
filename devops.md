@@ -1,4 +1,4 @@
-﻿# DevOps tools
+﻿# Outils DevOps
 
 Retrouvez ici un référentiel d'outils DevOps
 

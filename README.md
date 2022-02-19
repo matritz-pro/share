@@ -1,8 +1,5 @@
 ﻿# Share
-
-Ce repository est un référentiel de liens utiles concernant l'univers informatique.
-
-> /!\ N'hésitez pas à me signaler tout lien qui ne serait plus valide. /!\
+> Ce repository est un référentiel de liens utiles concernant l'univers informatique.
 
 |CATEGORIE|DESCRIPTION|
 |-|-|
