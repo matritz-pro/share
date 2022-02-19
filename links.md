@@ -10,6 +10,7 @@ A list of documentations and manuals ([here](https://github.com/jasonchampagne/F
 ### Course
 |LIEN|TAGS|DESCRIPTION|
 |--|--|--|
+|[FormationVideo](https://github.com/jasonchampagne/FormationVideo)||Cours gratuits proposés par Jason Champagne|
 |[openclassrooms](https://openclassrooms.com/fr/)||Site de formation en ligne|
 |[codecademy](https://www.codecademy.com/)||Plateforme d'apprentissage interactive en ligne|
 |[udemy](https://www.udemy.com/)||Site de formation en ligne|
