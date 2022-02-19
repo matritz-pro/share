@@ -4,7 +4,16 @@ Retrouvez ici un référentiel de liens utiles concernant l'univers informatique
 
 > /!\ N'hésitez pas à me signaler tout lien qui ne serait plus valide. /!\
 
-A list of documentations and manuals ([here](https://github.com/jasonchampagne/FindMyDoc))
+## Documentation
+> A list of documentations and manuals ([here](https://github.com/jasonchampagne/FindMyDoc))
+
+|CATEGORIE|LIENS|
+|--|--|
+|Application|[FindMyDesktopApp](https://github.com/jasonchampagne/FindMyDesktopApp)|
+|API|[public-apis](https://github.com/public-apis/public-apis)|
+|Framework||
+|Langage||
+|OS||
 
 ## Learning
 ### Course
@@ -44,10 +53,10 @@ A list of documentations and manuals ([here](https://github.com/jasonchampagne/F
 |[zestedesavoir](https://zestedesavoir.com/)|||
 
 ### Forums
-|LIEN|TAGS|DESCRIPTION|
+|LIEN|DESCRIPTION|
 |--|--|--|
-|[stackoverflow](https://stackoverflow.com/)||Site de questions réponses sur la programmation|
-|[developpez.net](https://www.developpez.net/forums/)||Site d'entraide informatique|
-|[lecrabeinfo](https://lecrabeinfo.net/)|software||
+|[stackoverflow](https://stackoverflow.com/)|Site de questions réponses sur la programmation|
+|[developpez.net](https://www.developpez.net/forums/)|Site d'entraide informatique|
+|[lecrabeinfo](https://lecrabeinfo.net/)||
 
 > Written with [StackEdit](https://stackedit.io/).

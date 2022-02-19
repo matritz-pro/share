@@ -5,8 +5,6 @@ Retrouvez ici un référentiel d'outils utiles.
 
 > /!\ N'hésitez pas à me signaler tout lien qui ne serait plus valide. /!\
 
-[Apps](https://github.com/jasonchampagne/FindMyDesktopApp)
-
 ## ?
 |LIEN|TAGS|DESCRIPTION|
 |--|--|--|
