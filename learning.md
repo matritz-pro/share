@@ -4,14 +4,24 @@ Retrouvez ici un référentiel de liens utiles concernant l'univers informatique
 
 > /!\ N'hésitez pas à me signaler tout lien qui ne serait plus valide. /!\
 
+|CATEGORIE|LIENS|
+|--|--|
+|[Documentation](https://github.com/matritz-pro/share/blob/main/learning.md#documentation)||
+|[Cours](https://github.com/matritz-pro/share/blob/main/learning.md#cours)||
+|[Challenges](https://github.com/matritz-pro/share/blob/main/learning.md#challenges)||
+|[Tutoriels](https://github.com/matritz-pro/share/blob/main/learning.md#tutoriels)||
+|[Forums](https://github.com/matritz-pro/share/blob/main/learning.md#forums)||
+|[Wiki](https://github.com/matritz-pro/share/blob/main/learning.md#wiki)||
+
+
 ## Documentation
 > A list of documentations and manuals ([here](https://github.com/jasonchampagne/FindMyDoc))
 
 |CATEGORIE|LIENS|
 |--|--|
+|||
 
-## Learning
-### Course
+## Cours
 |LIEN|TAGS|DESCRIPTION|
 |--|--|--|
 |[FormationVideo](https://github.com/jasonchampagne/FormationVideo)||Cours gratuits proposés par Jason Champagne|
@@ -22,7 +32,7 @@ Retrouvez ici un référentiel de liens utiles concernant l'univers informatique
 |[grafikart](https://grafikart.fr/)|||
 |[netacad](https://www.netacad.com/fr)||Programme d'éducation dans le domaine de l'IT et de la cybersécurité|
 
-### Challenges
+## Challenges
 |LIEN|TAGS|DESCRIPTION|
 |--|--|--|
 |[codingame](https://www.codingame.com/start)|||
@@ -31,7 +41,7 @@ Retrouvez ici un référentiel de liens utiles concernant l'univers informatique
 |[hackthebox](https://www.hackthebox.com/)|||
 |[studio.code](https://studio.code.org/courses)|||
 
-### Tutorials
+## Tutoriels
 |LIEN|TAGS|DESCRIPTION|
 |--|--|--|
 |[w3schools](https://www.w3schools.com/)|HTML CSS (RWD, Bootstrap, W3.CSS) / JS (JQuery, React, AngularJS, JSON, AJAX, AppML, W3.JS, Node.js) / Python (NumPy, Pandas, SciPy, Matplotlib) / Java / C / C++ / C# / R / Kotlin / Go / SQL / PHP / ASP / XML / Raspberry Pi / Git / AWS / IA (Machine Learning, Data Science)|Site d'apprentissage en ligne des technologies web|
@@ -39,19 +49,19 @@ Retrouvez ici un référentiel de liens utiles concernant l'univers informatique
 |[devstory](https://devstory.net/)|Java (Maven, Gradle, Thymeleaf, Spring, JWS, JavaFX) / Hibernate / Android / IOS / Python / C# / C / C++ / Ruby / Dart / SQL / HTML CSS (Bootstrap) / Git / AWS / SAP / TypeScript / JS (NodeJS, ReactJS, AngularJS)|Site d'apprentissage des technologies Web|
 |[xavki](https://xavki.blog/)|CI/CD / Ansible / Docker / Compose / Kubernates / SSH / Git / SGBD / AWS / Raspberry|Site d'apprentissage des technologies DevOps|
 
-### Wiki
+## Forums
+|LIEN|DESCRIPTION|
+|--|--|
+|[stackoverflow](https://stackoverflow.com/)|Site de questions réponses sur la programmation|
+|[developpez.net](https://www.developpez.net/forums/)|Site d'entraide informatique|
+|[lecrabeinfo](https://lecrabeinfo.net/)||
+
+## Wiki
 |LIEN|TAGS|DESCRIPTION|
 |--|--|--|
 |[wikibooks](https://fr.wikibooks.org/wiki/Accueil)||Plateforme proposant un ensemble de manuels pratiques|
 |[gladir](https://www.gladir.com/)|||
 |[developpez.com](https://general.developpez.com/cours/)|||
 |[zestedesavoir](https://zestedesavoir.com/)|||
-
-### Forums
-|LIEN|DESCRIPTION|
-|--|--|
-|[stackoverflow](https://stackoverflow.com/)|Site de questions réponses sur la programmation|
-|[developpez.net](https://www.developpez.net/forums/)|Site d'entraide informatique|
-|[lecrabeinfo](https://lecrabeinfo.net/)||
 
 > Written with [StackEdit](https://stackedit.io/).
