@@ -9,7 +9,7 @@ Retrouvez ici un référentiel de liens utiles concernant l'univers informatique
 
 |CATEGORIE|LIENS|
 |--|--|
-|Application|[FindMyDesktopApp](https://github.com/jasonchampagne/FindMyDesktopApp)|
+|Application||
 |API|[public-apis](https://github.com/public-apis/public-apis)|
 |Framework||
 |Langage||
@@ -54,7 +54,7 @@ Retrouvez ici un référentiel de liens utiles concernant l'univers informatique
 
 ### Forums
 |LIEN|DESCRIPTION|
-|--|--|--|
+|--|--|
 |[stackoverflow](https://stackoverflow.com/)|Site de questions réponses sur la programmation|
 |[developpez.net](https://www.developpez.net/forums/)|Site d'entraide informatique|
 |[lecrabeinfo](https://lecrabeinfo.net/)||
