@@ -4,13 +4,13 @@ Retrouvez ici un référentiel de liens utiles concernant l'univers informatique
 
 > /!\ N'hésitez pas à me signaler tout lien qui ne serait plus valide. /!\
 
-|CATEGORIE|LIENS|
+|CATEGORIE|DESCRIPTION|
 |--|--|
-|[Documentation](https://github.com/matritz-pro/share/blob/main/learning.md#documentation)||
-|[Cours](https://github.com/matritz-pro/share/blob/main/learning.md#cours)||
-|[Challenges](https://github.com/matritz-pro/share/blob/main/learning.md#challenges)||
+|[Documentation](https://github.com/matritz-pro/share/blob/main/learning.md#documentation)|Trouver une documentation|
+|[Cours](https://github.com/matritz-pro/share/blob/main/learning.md#cours)|Apprenez à votre rythme|
+|[Challenges](https://github.com/matritz-pro/share/blob/main/learning.md#challenges)|Des challenges pour apprendre et mettre en avant ces compétences|
 |[Tutoriels](https://github.com/matritz-pro/share/blob/main/learning.md#tutoriels)||
-|[Forums](https://github.com/matritz-pro/share/blob/main/learning.md#forums)||
+|[Forums](https://github.com/matritz-pro/share/blob/main/learning.md#forums)|Trouver des réponses à vos questions|
 |[Wiki](https://github.com/matritz-pro/share/blob/main/learning.md#wiki)||
 
 
