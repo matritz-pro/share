@@ -8,24 +8,62 @@ Retrouvez ici un référentiel de liens utiles concernant l'univers informatique
 ### Cours
 |LIEN|TAGS|DESCRIPTION|
 |--|--|--|
-|[openclassrooms](https://openclassrooms.com/fr/)|||
-|[codecademy](https://www.codecademy.com/)|||
-|[udemy](https://www.udemy.com/)|||
-|[coursera](https://fr.coursera.org/)|||
-|[netacad](https://www.netacad.com/fr)|||
+|[openclassrooms](https://openclassrooms.com/fr/)||Site de formation en ligne|
+|[codecademy](https://www.codecademy.com/)||Plateforme d'apprentissage interactive en ligne|
+|[udemy](https://www.udemy.com/)||Site de formation en ligne|
+|[coursera](https://fr.coursera.org/)||Plateforme proposant des formations en ligne ouvertes à tous|
+|[grafikart](https://grafikart.fr/)|||
+|[netacad](https://www.netacad.com/fr)||Programme d'éducation dans le domaine de l'IT et de la cybersécurité|
+
+### Challenges
+|LIEN|TAGS|DESCRIPTION|
+|--|--|--|
+|[codingame](https://www.codingame.com/start)|||
+|[codecombat](https://codecombat.com/play)|||
+|[root-me](https://www.root-me.org/)|||
+|[hackthebox](https://www.hackthebox.com/)|||
+|[studio.code](https://studio.code.org/courses)|||
 
 ### Tutoriels
 |LIEN|TAGS|DESCRIPTION|
 |--|--|--|
-|[w3schools](https://www.w3schools.com/)|||
-|[developpez.com](https://general.developpez.com/cours/)|||
-|[quackit](https://www.quackit.com/)|||
-|[devstory](https://devstory.net/)|||
+|[w3schools](https://www.w3schools.com/)|HTML CSS (RWD, Bootstrap, W3.CSS) / JS (JQuery, React, AngularJS, JSON, AJAX, AppML, W3.JS, Node.js) / Python (NumPy, Pandas, SciPy, Matplotlib) / Java / C / C++ / C# / R / Kotlin / Go / SQL / PHP / ASP / XML / Raspberry Pi / Git / AWS / IA (Machine Learning, Data Science)|Site d'apprentissage en ligne des technologies web|
+|[quackit](https://www.quackit.com/)|HTML CSS (Bootstrap, Sass) / JS (JQuery, JSON) / Python / ColdFusion / VBScript / SQL (MySQL, MongoDB, Neo4j,SQLite, SQL Server, Access) / PHP / XML / WordPress|Site d'apprentissage des technologies Web|
+|[devstory](https://devstory.net/)|Java (Maven, Gradle, Thymeleaf, Spring, JWS, JavaFX) / Hibernate / Android / IOS / Python / C# / C / C++ / Ruby / Dart / SQL / HTML CSS (Bootstrap) / Git / AWS / SAP / TypeScript / JS (NodeJS, ReactJS, AngularJS)|Site d'apprentissage des technologies Web|
+|[xavki](https://xavki.blog/)|CI/CD / Ansible / Docker / Compose / Kubernates / SSH / Git / SGBD / AWS / Raspberry|Site d'apprentissage des technologies DevOps|
+
+### Wiki
+|LIEN|TAGS|DESCRIPTION|
+|--|--|--|
+|[wikibooks](https://fr.wikibooks.org/wiki/Accueil)||Plateforme proposant un ensemble de manuels pratiques|
 |[gladir](https://www.gladir.com/)|||
-|[wikibooks](https://fr.wikibooks.org/wiki/Accueil)|||
+|[developpez.com](https://general.developpez.com/cours/)|||
 |[zestedesavoir](https://zestedesavoir.com/)|||
-|[grafikart](https://grafikart.fr/)|||
-|[xavki](https://xavki.blog/)|||
+
+## ?
+|LIEN|TAGS|DESCRIPTION|
+|--|--|--|
+|[Atlassian](https://www.atlassian.com/fr)|||
+|[apache](https://apache.org/)|||
+|[Perforce](https://www.perforce.com/)|||
+
+## Outils
+|LIEN|TAGS|DESCRIPTION|
+|--|--|--|
+|[predictalab](https://predictalab.fr/)|||
+|[Tinkercad](https://www.tinkercad.com/)|||
+|[n8n.io](https://n8n.io/)|||
+|[Postman](https://www.postman.com/)|||
+
+## Outils gratuits en ligne
+|LIEN|TAGS|DESCRIPTION|
+|--|--|--|
+|[codeshare](https://codeshare.io/)||free online code editor for interviews, troubleshooting, teaching & more...|
+|[codingground](https://www.tutorialspoint.com/codingground.htm)||free online editors and compilers|
+|[draw.io](https://app.diagrams.net/)||free online diagram software|
+|[stackedit](https://stackedit.io/)|Markdown|free online markdown editor|
+|[dillinger](https://dillinger.io/)|Markdown / HTML|free online markdown editor (markdown to HTML)|
+|[regex101](https://regex101.com/)|Regex|free online regular expression tester|
 
 ## Outils DevOps
 ### Collaboration
@@ -33,12 +71,11 @@ Retrouvez ici un référentiel de liens utiles concernant l'univers informatique
 #### Application Lifecycle Management
 |LIEN|TAGS|DESCRIPTION|
 |--|--|--|
-|[jira](https://www.atlassian.com/fr/software/jira)
-|[trello](https://trello.com/fr)
-|[asana](https://asana.com/fr)
-|[basecamp](https://basecamp.com/)
-|[pivotaltracker](https://www.pivotaltracker.com/)
-|
+|[jira](https://www.atlassian.com/fr/software/jira)||_Jira_ est un système de suivi de bugs, de gestion des incidents et de gestion de projets|
+|[trello](https://trello.com/fr)||_Trello_ est un outil de gestion de projet en ligne|
+|[asana](https://asana.com/fr)||_Asana_ est un gestionnaire de communication d'équipe|
+|[basecamp](https://basecamp.com/)||_Basecamp_ is the all-in-one toolkit for working remotely|
+|[pivotaltracker](https://www.pivotaltracker.com/)||_Pivotal Tracker_ is the agile project management tool of choice for developers|
 
 #### Communication & ChatOps
 |LIEN|TAGS|DESCRIPTION|
@@ -48,7 +85,6 @@ Retrouvez ici un référentiel de liens utiles concernant l'univers informatique
 |[flowdock](https://www.flowdock.com/)
 |[microsoft teams](https://www.microsoft.com/fr-fr/microsoft-teams/group-chat-software)
 |[mattermost](https://mattermost.com/)
-
 
 #### Knowledge Sharing
 |LIEN|TAGS|DESCRIPTION|
@@ -72,6 +108,7 @@ Retrouvez ici un référentiel de liens utiles concernant l'univers informatique
 |[gitlab](https://about.gitlab.com/)
 |[gitbucket](https://gitbucket.github.io/)
 |[bitbucket](https://bitbucket.org/)
+|[replit](https://replit.com/)|||
 |[mercurial](https://www.mercurial-scm.org/)
 |[gogs](https://gogs.io/)
 
@@ -109,6 +146,7 @@ Retrouvez ici un référentiel de liens utiles concernant l'univers informatique
 ### Test
 |LIEN|TAGS|DESCRIPTION|
 |--|--|--|
+|[veracode](https://www.veracode.com/)|||
 |[selenium](https://www.selenium.dev/)
 |[jasmine](https://jasmine.github.io/)
 |[mochajs](https://mochajs.org/)
@@ -234,8 +272,8 @@ Retrouvez ici un référentiel de liens utiles concernant l'univers informatique
 ### Forums
 |LIEN|TAGS|DESCRIPTION|
 |--|--|--|
-|[stackoverflow](https://stackoverflow.com/)|dev|Site de questions réponses sur la programmation|
-|[developpez.net](https://www.developpez.net/forums/)|dev / software|Site d'entraide informatique|
+|[stackoverflow](https://stackoverflow.com/)||Site de questions réponses sur la programmation|
+|[developpez.net](https://www.developpez.net/forums/)||Site d'entraide informatique|
 |[lecrabeinfo](https://lecrabeinfo.net/)|software||
 |[config-gamer](https://www.config-gamer.fr/forum.html)|hardware||
 
@@ -252,38 +290,6 @@ Retrouvez ici un référentiel de liens utiles concernant l'univers informatique
 |[hitech-world](https://hitech-world.net/)|high-tech||
 |[rtings](https://www.rtings.com/)|hardware||
 
-## Utilitaires
-|LIEN|TAGS|DESCRIPTION|
-|--|--|--|
-|[Atlassian](https://www.atlassian.com/fr)|teamwork||
-|[Github](https://github.com/)|teamwork||
-|[Replit](https://replit.com/)|teamwork||
-|[Perforce](https://www.perforce.com/)|teamwork||
-|[codingground](https://www.tutorialspoint.com/codingground.htm)|||
-|[predictalab](https://predictalab.fr/)|||
-|[veracode](https://www.veracode.com/)|||
-|[Tinkercad](https://www.tinkercad.com/)|||
-|[n8n.io](https://n8n.io/)|||
-|[Postman](https://www.postman.com/)|||
-
-## Plateformes de challenges
-|LIEN|TAGS|DESCRIPTION|
-|--|--|--|
-|[codingame](https://www.codingame.com/start)|||
-|[codecombat](https://codecombat.com/play)|||
-|[root-me](https://www.root-me.org/)|||
-|[hackthebox](https://www.hackthebox.com/)|||
-|[studio.code](https://studio.code.org/courses)|||
-
-## Outils en ligne
-|LIEN|TAGS|DESCRIPTION|
-|--|--|--|
-|[codeshare](https://codeshare.io/)|||
-|[draw.io](https://app.diagrams.net/)|||
-|[stackedit](https://stackedit.io/)|||
-|[dillinger](https://dillinger.io/)|||
-|[regex101](https://regex101.com/)|||
-
 ## Documentations
 Retrouvez ici une liste de documentations et manuels d'utilisation/de référence pour vos langages de programmation/Web, bibliothèques, frameworks, CMS, logiciels d'infographie, 3D, MAO, d'édition vidéo, de bureautique, des systèmes d'exploitation ou encore d'utilitaires.
 
@@ -299,4 +305,4 @@ Retrouvez ici une liste de documentations et manuels d'utilisation/de référenc
 |**Systèmes**|[Android](https://developer.android.com/docs) / [ArchLinux](https://wiki.archlinux.fr) / [CentOS](https://wiki.centos.org/fr) / [Debian](https://www.debian.org/doc/index.fr.html) / [elementaryOS](https://www.elementaryos-fr.org/documentation) / [Fedora](https://doc.fedora-fr.org/wiki/Accueil) / [FreeBSD](https://www.freebsd.org/doc/fr/books/handbook) / [Gentoo](https://www.gentoo.org/support/documentation) / [Kali](https://www.kali.org/docs) / [Linux Kernel](https://www.kernel.org/doc/) / [Linux Mint](https://linuxmint-installation-guide.readthedocs.io/fr/latest) / [Mageia](https://www.mageia.org/fr/doc) / [Manjaro](https://wiki.manjaro.org/index.php?title=Accueil) / [openSUSE](https://fr.opensuse.org/Portal:Documentation) / [Parrot](https://docs.parrotlinux.org) / [Raspbian](http://raspbian.org/RaspbianDocumentation) / [Slackware](https://docs.slackware.com/fr:start) / [Tails](https://tails.boum.org/doc/index.fr.html) / [Trisquel](https://trisquel.info/fr/wiki) / [Ubuntu](https://doc.ubuntu-fr.org) / [Windows](https://docs.microsoft.com/fr-fr/windows/)|
 |**Utilitaires**|[aria2](https://aria2.github.io/manual/en/html/index.html) / [chkdsk](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/chkdsk) / [clang](https://clang.llvm.org/docs/UsersManual.html) / [cmake](https://cmake.org/documentation/) / [distrobuilder](https://distrobuilder.readthedocs.io/en/latest/) / [ffmpeg](https://ffmpeg.org/documentation.html) / [gcc](https://gcc.gnu.org/onlinedocs) / [gdb](https://www.gnu.org/software/gdb/documentation) / [git](https://git-scm.com/doc) / [golink](http://www.godevtool.com/GolinkHelp/GoLink.htm) / [ld](https://sourceware.org/binutils/docs/ld/) / [lxc](https://linuxcontainers.org/lxc/documentation/) / [lxd](https://linuxcontainers.org/lxd/docs/master/) / [make](https://www.gnu.org/software/make/manual/make.html) / [mingw](http://mingw-w64.org/doku.php/documentation) / [nano](https://www.nano-editor.org/docs.php) / [opus](https://www.opus-codec.org/docs) / [pip](https://pip.pypa.io/en/stable) / [poetry](https://python-poetry.org/docs/) / [sdelete](https://docs.microsoft.com/en-us/sysinternals/downloads/sdelete) / [valgrind](http://www.valgrind.org/docs/manual/manual.html) / [vim](https://www.vim.org/docs.php) / [webm](http://wiki.webmproject.org) / [webp](https://developers.google.com/speed/webp/docs/using) / [x64dgb](https://help.x64dbg.com/en/latest/) / [xmake](https://xmake.io/#/getting_started)|
 
-[ansible](https://docs.ansible.com/ansible/latest/index.html)
+> Written with [StackEdit](https://stackedit.io/).
