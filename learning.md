@@ -9,8 +9,8 @@ Retrouvez ici un référentiel de liens utiles concernant l'univers informatique
 - [Cours](https://github.com/matritz-pro/share/blob/main/learning.md#cours)
 - [Challenges](https://github.com/matritz-pro/share/blob/main/learning.md#challenges)
 - [Tutoriels](https://github.com/matritz-pro/share/blob/main/learning.md#tutoriels)
-- [Forums](https://github.com/matritz-pro/share/blob/main/learning.md#forums)
 - [Wiki](https://github.com/matritz-pro/share/blob/main/learning.md#wiki)
+- [Forums](https://github.com/matritz-pro/share/blob/main/learning.md#forums)
 
 
 ## Documentation
@@ -48,13 +48,6 @@ Retrouvez ici un référentiel de liens utiles concernant l'univers informatique
 |[devstory](https://devstory.net/)|Java (Maven, Gradle, Thymeleaf, Spring, JWS, JavaFX) / Hibernate / Android / IOS / Python / C# / C / C++ / Ruby / Dart / SQL / HTML CSS (Bootstrap) / Git / AWS / SAP / TypeScript / JS (NodeJS, ReactJS, AngularJS)|Site d'apprentissage des technologies Web|
 |[xavki](https://xavki.blog/)|CI/CD / Ansible / Docker / Compose / Kubernates / SSH / Git / SGBD / AWS / Raspberry|Site d'apprentissage des technologies DevOps|
 
-## Forums
-|LIEN|DESCRIPTION|
-|--|--|
-|[stackoverflow](https://stackoverflow.com/)|Site de questions réponses sur la programmation|
-|[developpez.net](https://www.developpez.net/forums/)|Site d'entraide informatique|
-|[lecrabeinfo](https://lecrabeinfo.net/)||
-
 ## Wiki
 |LIEN|TAGS|DESCRIPTION|
 |--|--|--|
@@ -62,5 +55,15 @@ Retrouvez ici un référentiel de liens utiles concernant l'univers informatique
 |[gladir](https://www.gladir.com/)|||
 |[developpez.com](https://general.developpez.com/cours/)|||
 |[zestedesavoir](https://zestedesavoir.com/)|||
+
+## Forums
+> Vous ne trouvez pas ce que vous cherchez ? 
+> Pas de paniques, posez vos questions à la communauté
+
+|LIEN|DESCRIPTION|
+|--|--|
+|[stackoverflow](https://stackoverflow.com/)|Site de questions réponses sur la programmation|
+|[developpez.net](https://www.developpez.net/forums/)|Site d'entraide informatique|
+|[lecrabeinfo](https://lecrabeinfo.net/)||
 
 > Written with [StackEdit](https://stackedit.io/).
