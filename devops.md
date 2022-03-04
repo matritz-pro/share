@@ -1,35 +1,6 @@
-﻿# Tools
+﻿# DevOps tools
 
 > /!\ N'hésitez pas à me signaler tout lien qui ne serait plus valide. /!\
-
-## Applications
-**[FindMyDesktopApp](https://github.com/jasonchampagne/FindMyDesktopApp)**
-
-### ETL
-|LIEN|TAGS|DESCRIPTION|
-|--|--|--|
-||||
-
-### IDE
-|LIEN|TAGS|DESCRIPTION|
-|--|--|--|
-||||
-
-### Modélisation
-|LIEN|TAGS|DESCRIPTION|
-|--|--|--|
-|[umlet](https://www.umlet.com/)|||
-|[visual-paradigm](https://www.visual-paradigm.com/)|||
-|[draw.io](https://app.diagrams.net/)|||
-|[xmind](https://www.xmind.net/)|||
-|[freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)|||
-|[mindmeister](https://www.mindmeister.com/fr)|||
-|[mindmanager](https://www.mindmanager.com/fr/)|||
-|[coggle](https://coggle.it/)|||
-|[cmap](https://cmap.ihmc.us/)|||
-|[gitmind](https://gitmind.com/fr/)|||
-
-# DevOps tools
 
 ![https://media-exp1.licdn.com/dms/image/C4D12AQGeniFBFQl75Q/article-inline_image-shrink_1500_2232/0/1550227830497?e=1648684800&v=beta&t=2hNv1sXIpjbDEq9qsk83EnGGA-devZ6gkJXqHO1vfJc](https://media-exp1.licdn.com/dms/image/C4D12AQGeniFBFQl75Q/article-inline_image-shrink_1500_2232/0/1550227830497?e=1648684800&v=beta&t=2hNv1sXIpjbDEq9qsk83EnGGA-devZ6gkJXqHO1vfJc)
 

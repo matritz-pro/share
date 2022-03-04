@@ -12,6 +12,34 @@
 |--|--|--|
 ||||
 
+## Applications
+**[FindMyDesktopApp](https://github.com/jasonchampagne/FindMyDesktopApp)**
+
+### ETL
+|LIEN|TAGS|DESCRIPTION|
+|--|--|--|
+||||
+
+### IDE
+|LIEN|TAGS|DESCRIPTION|
+|--|--|--|
+||||
+
+### Modélisation
+|LIEN|TAGS|DESCRIPTION|
+|--|--|--|
+|[umlet](https://www.umlet.com/)|||
+|[visual-paradigm](https://www.visual-paradigm.com/)|||
+|[draw.io](https://app.diagrams.net/)|||
+|[xmind](https://www.xmind.net/)|||
+|[freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page)|||
+|[mindmeister](https://www.mindmeister.com/fr)|||
+|[mindmanager](https://www.mindmanager.com/fr/)|||
+|[coggle](https://coggle.it/)|||
+|[cmap](https://cmap.ihmc.us/)|||
+|[gitmind](https://gitmind.com/fr/)|||
+
+
 ## Fournisseur de services
 |LIEN|TAGS|DESCRIPTION|
 |--|--|--|
