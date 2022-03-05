@@ -30,6 +30,7 @@ Retrouvez ici un référentiel de liens utiles concernant l'univers informatique
 |[coursera](https://fr.coursera.org/)||Plateforme proposant des formations en ligne ouvertes à tous|
 |[grafikart](https://grafikart.fr/)|||
 |[netacad](https://www.netacad.com/fr)||Programme d'éducation dans le domaine de l'IT et de la cybersécurité|
+|[datacamp](https://www.datacamp.com)|||
 
 ## Challenges
 |LIEN|TAGS|DESCRIPTION|
@@ -57,7 +58,7 @@ Retrouvez ici un référentiel de liens utiles concernant l'univers informatique
 |[zestedesavoir](https://zestedesavoir.com/)|||
 
 ## Forums
-> Vous ne trouvez pas ce que vous cherchez ? 
+> Vous ne trouvez pas ce que vous cherchez ?
 > Pas de paniques, posez vos questions à la communauté
 
 |LIEN|DESCRIPTION|
