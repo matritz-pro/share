@@ -1,6 +1,5 @@
 # Rapport
 
-
 ## Accord de publication
 Je sousigné Mathieu TRITZ, auteur de ce document, autorise que ce rapport ainsi que tous les documents associés soient partagés.
 
@@ -17,14 +16,13 @@ Je sousigné Mathieu TRITZ, auteur de ce document, autorise que ce rapport ainsi
 
 ## Introduction
 
-## 
+##
 
 ## Conclusion
 
 ## Ouverture
 
 ## Table des illustrations
-[Figure1]() : 
 
 ## Annexes
 

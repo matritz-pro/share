@@ -1,5 +1,14 @@
 # Gestion de projet
 
+## Méthodologies
+Avant de débuter notre projet, il est indispensable de choisir la méthodologie adaptée à notre projet pour le bon déroulement de celui.
+Pour cela, voici les pour et contre des principales méthodologies utilisées dans des projets informatiques :
+
+|Philosophie|Méthodologie|Avantages|Inconvénients|
+|-|-|-|-|
+|Agile|Scrum|||
+|Traditionnel|Waterfall|||
+
 ## [OpenClassRooms/GestionDeProjet](https://openclassrooms.com/fr/search?page=1&query=&categories=Gestion%20de%20projet&language=fr&type=course)
 
 - [ ] [Initiez-vous à la gestion de projet agile](https://openclassrooms.com/fr/courses/4507926-initiez-vous-a-la-gestion-de-projet-agile)
