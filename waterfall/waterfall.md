@@ -9,7 +9,8 @@ Apprendre à gérer un projet informatique avec une méthodologie en cascade (wa
 * [2. Lancement]()
 * [3. Conception]()
 * [4. Réalisation]()
-* [5. Exploitation]()
+* [5. Déploiement]()
+* [6. Exploitation]()
 
 ## Méthodologies
 Avant de débuter notre projet, il est indispensable de choisir la méthodologie adaptée à notre projet pour le bon déroulement de celui.
