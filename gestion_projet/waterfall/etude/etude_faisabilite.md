@@ -33,7 +33,7 @@ Objectif : Obtenir toutes les informations nécessaires pour planifier le projet
 
 
 ## Planification
-Diagramme de gantt : [plan.gan](/plan.gan)
+Diagramme de gantt : [plan.gan](../plan.pdf)
 
 Lister les tâches et leur durée
 Assigner les tâches
