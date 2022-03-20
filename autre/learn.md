@@ -25,6 +25,7 @@ Retrouvez ici un référentiel de liens utiles concernant l'univers informatique
 |--|--|--|
 |[FormationVideo](https://github.com/jasonchampagne/FormationVideo)||Cours gratuits proposés par Jason Champagne|
 |[openclassrooms](https://openclassrooms.com/fr/)||Site de formation en ligne|
+|[26academy](https://www.26academy.com/)||Site de formation en ligne|
 |[codecademy](https://www.codecademy.com/)||Plateforme d'apprentissage interactive en ligne|
 |[udemy](https://www.udemy.com/)||Site de formation en ligne|
 |[coursera](https://fr.coursera.org/)||Plateforme proposant des formations en ligne ouvertes à tous|
@@ -56,6 +57,7 @@ Retrouvez ici un référentiel de liens utiles concernant l'univers informatique
 |[gladir](https://www.gladir.com/)|||
 |[developpez.com](https://general.developpez.com/cours/)|||
 |[zestedesavoir](https://zestedesavoir.com/)|||
+|[readthedocs](https://readthedocs.org/)|||
 
 ## Forums
 > Vous ne trouvez pas ce que vous cherchez ?
