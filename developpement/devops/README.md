@@ -108,7 +108,7 @@
 |[specflow](https://specflow.org/)
 
 ## Deploy
-### Deployment
+### Deployment / CD
 |LIEN|TAGS|DESCRIPTION|
 |--|--|--|
 |[octopus](https://octopus.com/)
@@ -150,13 +150,13 @@
 |[aws](https://aws.amazon.com/fr/)
 |[dokku](https://dokku.com/)
 |[heroku](https://www.heroku.com/)
+|[openshift](https://www.redhat.com/fr/technologies/cloud-computing/openshift)
 |[azure](https://azure.microsoft.com/fr-fr/)
 |[googlecloud](https://cloud.google.com/)
 |[cloudfoundry](https://www.cloudfoundry.org/)
 |[rackspace](https://www.rackspace.com/)
 |[openstack](https://www.openstack.org/)
 |[deis](https://digital.ai/technology/deis)
-|[openshift](https://www.redhat.com/fr/technologies/cloud-computing/openshift)
 |[engineyard](https://www.engineyard.com/)
 
 ### Orchestration & Scheduling
