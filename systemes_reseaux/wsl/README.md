@@ -24,7 +24,7 @@ Et entrez votre mot de passe créée précédement.
 ## Installer une GUI pour WSL
 
 > Les applications GUI Linux sont uniquement prises en charge avec WSL 2 et ne fonctionnent pas avec une distribution Linux configurée pour WSL 1\
-Pour mettre à niveau votre distribution vers WSL2, c'est [ici](wsl#mettre-à-niveau-une-distribution-wsl1-vers-wsl2)
+Pour mettre à niveau votre distribution vers WSL2, c'est [ici](#mettre-à-niveau-une-distribution-wsl1-vers-wsl2)
 
 Installez l'outil VcXsrv ou un équivalent, sur Windows.
 
