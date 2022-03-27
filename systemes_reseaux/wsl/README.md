@@ -4,7 +4,7 @@
 Sélectionnez démarrer, tapez PowerShell, cliquez avec le bouton droit sur Windows PowerShell, puis sélectionnez exécuter en tant qu’administrateur.
 
 Saisissez la commande suivante :
-```bash
+```powershell
 Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 ```
 
@@ -49,12 +49,12 @@ wsl -l -v
 ```
 
 Mettez à jour vos différent WSL, saisissez la commande suivante :
-```bash
+```powershell
 wsl --update
 ```
 
 Enfin, redémarrez WSL pour que la mise à jour prenne effet :
-```bash
+```powershell
 wsl --shutdown
 ```
 
