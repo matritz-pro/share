@@ -2,7 +2,7 @@
 
 > /!\ N'hésitez pas à me signaler tout lien qui ne serait plus valide. /!\
 
-![devops](ressources/devops.jpeg)
+![http://www.jamesbowman.me/post/cdlandscape/ContinuousDeliveryToolLandscape-fullsize.jpeg](ressources/devops.jpeg)
 
 ## Collaborate
 ### Application Lifecycle Management
